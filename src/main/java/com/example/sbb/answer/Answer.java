@@ -1,5 +1,9 @@
 package com.example.sbb.answer;
 
+/**
+ * 응답
+ */
+
 import java.time.LocalDateTime;
 
 import com.example.sbb.question.Question;
